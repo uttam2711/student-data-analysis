@@ -1,10 +1,8 @@
 # student-data-analysis
 
-# Student Data Analysis
-
 ## Overview
-
-This project is a simple Python program to analyze student data using **Pandas** and **NumPy**. It reads student information from a CSV file and provides statistics, grades, and filtering options.
+This project is a simple Python program to analyze student data using **Pandas** and **NumPy**. 
+It reads student information from a CSV file and provides statistics, grades, and filtering options.
 
 ## Features
 
@@ -44,6 +42,11 @@ The CSV file should have the following columns:
 
 ```
 ID,Name,Marks
+1	Aarav Singh	78
+2	Aanya Sharma	82
+3	Advait Patel	65
+4	Alia Gupta	91
+5	Arjun Kumar	54
 
 ```
 
